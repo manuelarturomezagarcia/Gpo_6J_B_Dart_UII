@@ -1,5 +1,5 @@
 # Gpo_6J_B_Dart_UI
-Ejemplos de mis listas, mapas, funciones, clases y herencia 
+Ejemplos De Mis Listas, Mapas, Funciones, Clases y Herencia 
 
 - [ ] [listas](https://dartpad.dartlang.org/)
 - [ ] [mapas](https://dartpad.dartlang.org/)
